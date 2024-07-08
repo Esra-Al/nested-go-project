@@ -8,7 +8,6 @@ import (
 	"github.com/Esra-Al/nested-go-project/submodule"
 )
 
-// hi
 func main() {
 	modFileRootPath := "." // Replace with the actual path if needed
 	gitTopLevelDir, err := getGitTopLevelDir(modFileRootPath)
