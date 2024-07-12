@@ -1,4 +1,5 @@
 // submodule/submodule.go
+// hi
 package submodule
 
 import "fmt"
